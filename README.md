@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-profile-trophy.vercel.app/?username=vijayshukla30
+``` https://github-profile-trophy.vercel.app/?username=vijayshukla30```
